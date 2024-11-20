@@ -1,0 +1,2 @@
+# Core dependencies
+# Note: datetime, math, and typing are part of Python standard library
